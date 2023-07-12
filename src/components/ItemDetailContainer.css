@@ -1,0 +1,8 @@
+.cardDetailContainer{
+    display: flex;
+    justify-content: center;
+}
+.detailContainerTitle{
+    text-align: center;
+    padding-top: 20px;
+}

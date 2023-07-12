@@ -19,6 +19,7 @@ header{
 .logo{
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .logo i{
@@ -87,7 +88,7 @@ header{
     .navbar{
         position: absolute;
         top: 100%;
-        right: 2%;
+        right: -100%;
         width: 210px;
         min-height: 100%;
         background: var(--main-color);

@@ -6,8 +6,21 @@
     text-decoration: none;
     list-style: none;
 }
+/* Modificación de Scroll */
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+  
+::-webkit-scrollbar {
+    width: 7px;
+    height: 10 px;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #37076eba;
+    border-radius: 50px;
+}
 body{
-    min-height: 100vh;
     background: #222327;
     color: #fff;
     

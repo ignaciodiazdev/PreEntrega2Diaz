@@ -1,6 +1,15 @@
-.saludo{
-    height: 100vh;
+.itemListContainer{
+    padding-bottom: 30px;
+}
+.cardContainer{
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
+    flex: 1;
     justify-content: center;
+    gap: 2rem;
+}
+.categoriasContainer{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
 }

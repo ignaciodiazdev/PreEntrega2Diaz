@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "nombre": "HP 15T-DK200",
+        "img": "../img/laptops/laptop01.jpg",
+        "descripcion": "La laptop perfecta para profesionales en movimiento, combina un diseño elegante con un rendimiento potente.",
+        "precio": "700.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "2",
+        "nombre": "Lenovo Legion Y540",
+        "img": "../img/laptops/laptop02.jpg",
+        "descripcion": "Sumérgete en la acción con una laptop portátil que ofrece una experiencia visual envolvente para gamers.",
+        "precio": "560.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "3",
+        "nombre": "HP Victus 16-20524",
+        "img": "../img/laptops/laptop03.jpg",
+        "descripcion": "Ligera y compacta, esta laptop es ideal para estudiantes y viajeros que buscan portabilidad excepcional.",
+        "precio": "680.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "4",
+        "nombre": "Lenovo Ideapad 3",
+        "img": "../img/laptops/laptop04.jpg",
+        "descripcion": "Disfruta de una calidad de imagen impresionante con una pantalla táctil de alta resolución y amplio almacenamiento.",
+        "precio": "740.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "5",
+        "nombre": "MSI Katana GF76",
+        "img": "../img/laptops/laptop05.jpg",
+        "descripcion": "Diseñada para resistir el uso diario, esta laptop ofrece durabilidad y rendimiento de alto nivel.",
+        "precio": "830.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "6",
+        "nombre": "Asus Strix G17",
+        "img": "../img/laptops/laptop06.jpg",
+        "descripcion": "Los creativos se deleitarán con una laptop que combina estilo elegante con un rendimiento excepcional.",
+        "precio": "690.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "7",
+        "nombre": "Asus Tuf Dash F15",
+        "img": "../img/laptops/laptop07.jpg",
+        "descripcion": "Trabaja durante horas sin preocuparte por la batería en esta laptop versátil y confiable.",
+        "precio": "720.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "8",
+        "nombre": "HP 16-D0542 G9",
+        "img": "../img/laptops/laptop08.jpg",
+        "descripcion": "Potencia y elegancia se unen en esta delgada y sofisticada laptop que ofrece una versatilidad incomparable.",
+        "precio": "610.00",
+        "categoria": "Laptops",
+        "delivery": "true"
+    },
+    {
+        "id": "9",
+        "nombre": "Samsung 24' Smart",
+        "img": "../img/monitores/monitor01.jpg",
+        "descripcion": "Pantalla amplia y nítida para una experiencia visual inmersiva.",
+        "precio": "450.00",
+        "categoria": "Monitores",
+        "delivery": "true"
+    },
+    {
+        "id": "10",
+        "nombre": "Samsung 27' Smart",
+        "img": "../img/monitores/monitor02.jpg",
+        "descripcion": "Colores vibrantes y gran resolución para un rendimiento excepcional.",
+        "precio": "510.00",
+        "categoria": "Monitores",
+        "delivery": "true"
+    },
+    {
+        "id": "11",
+        "nombre": "LG 27' 27UL500",
+        "img": "../img/monitores/monitor03.jpg",
+        "descripcion": "Diseño elegante y ergonómico para una productividad y comodidad mejoradas.",
+        "precio": "620.00",
+        "categoria": "Monitores",
+        "delivery": "true"
+    },
+    {
+        "id": "12",
+        "nombre": "Gamer Halion S2",
+        "img": "../img/auriculares/auricular01.jpg",
+        "descripcion": "Sonido envolvente y cancelación de ruido para una experiencia inmersiva.",
+        "precio": "180.00",
+        "categoria": "Auriculares",
+        "delivery": "false"
+    },
+    {
+        "id": "13",
+        "nombre": "Xtech XTH541",
+        "img": "../img/auriculares/auricular02.jpg",
+        "descripcion": "Diseño ergonómico y conexión inalámbrica para mayor comodidad y libertad.",
+        "precio": "220.00",
+        "categoria": "Auriculares",
+        "delivery": "false"
+    },
+    {
+        "id": "14",
+        "nombre": "Micronics Lúdico",
+        "img": "../img/auriculares/auricular03.jpg",
+        "descripcion": "Calidad de audio excepcional y duración de la batería prolongada.",
+        "precio": "145.00",
+        "categoria": "Auriculares",
+        "delivery": "false"
+    },
+    {
+        "id": "15",
+        "nombre": "Antryx CS Thunder",
+        "img": "../img/auriculares/auricular04.jpg",
+        "descripcion": "Estilo moderno y compatibilidad con dispositivos múltiples para una versatilidad total.",
+        "precio": "120.00",
+        "categoria": "Auriculares",
+        "delivery": "false"
+    }
+]
